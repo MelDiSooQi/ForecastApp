@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#426580</color>
+    <color name="colorPrimaryDark">#024d76</color>
+    <color name="colorAccent">#a0a3a7</color>
+
+
+
+    <color name="white">#ffffff</color>
+    <color name="feed_bg">#b5e0ff</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#81b1d5</color>
+    <color name="link">#0a80d1</color>
+    <color name="checkedIn">#a0a3a7</color>
+    <color name="likeThis">#a0a3a7</color>
+    <color name="title_label">#0072b1</color>
+
+
+</resources>
